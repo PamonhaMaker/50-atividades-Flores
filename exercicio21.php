@@ -14,8 +14,8 @@ Descritivo: Array/FOR: Crie um array com os 7 dias da semana e imprima-os usando
 ***************************/
 $aluno = array(
     "nome" => "Gabriel Diniz",
-    "idade" => 21,
-    "curso" => "Análise e Desenvolvimento de Sistemas"
+    "idade" => 18,
+    "curso" => "Engenharia de Software"
 );
 
 echo "Nome: " . $aluno["nome"] . "<br>";
