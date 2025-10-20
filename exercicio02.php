@@ -11,7 +11,7 @@ Componentes:
 25127107-2-Tiago Joslin
 Data: 08 de Outubro de 2025
 Descritivo: Crie um programa que use for para imprimir os números pares de 2 a 20
-    ***************************/
+***************************/
 
     for ($a = 2; $a <= 20; $a+=2) {
         echo $a . "\n"; 
